@@ -3,3 +3,4 @@ boodschappen.txt
 Pizza:
 -Pizzadeeg
 -Tomatensaus
+-mozarella
