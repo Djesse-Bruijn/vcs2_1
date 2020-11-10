@@ -3,5 +3,10 @@ boodschappen.txt
 Pizza:
 -Pizzadeeg
 -Tomatensaus
--mozarella
--basilucum
+-Mozarella
+-Basilucum
+
+Ontbijt:
+-Brood
+-Eieren
+-Sinaasappelsap
